@@ -1,0 +1,25 @@
+#nav_bar{
+    padding-top: 2em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #fff;
+    font-size: 20px;
+}
+
+#nav_bar ul{
+    display: flex;
+    gap: 2rem;
+    border-bottom: 1px solid #f2f1f1;
+}
+
+#nav_bar a{
+    color: #fff;
+   text-transform: uppercase;
+   margin-bottom: 2em;
+}
+
+#nav_bar li{
+    margin-bottom: 0.6rem;
+}
+
